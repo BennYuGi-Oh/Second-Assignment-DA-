@@ -28,6 +28,16 @@
 ### Data Visualization 
 
 
+![Uploading HR4.png…]()
+
+
+![HR3](https://github.com/user-attachments/assets/114e62e9-cdf0-4b04-9fdf-764abc93cd0c)
+
+
+![HR10](https://github.com/user-attachments/assets/ca570144-1fae-4edc-948b-c82e94b0c0a3)
+
+
+![HR2](https://github.com/user-attachments/assets/1d038b75-f919-4058-a32c-1ccd2c0d06ef)
 
 
 ### Conclusion
