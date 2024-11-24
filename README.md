@@ -42,15 +42,7 @@ Current employees: 1,233
 
 Attrition rate: 16.12%
 
-
 The dataset includes attributes such as job roles, age groups, gender, marital status, department, and educational background.
-
-
-1. Attrition by Department:
-
-The majority of attrition occurs in the Sales department (46.6% of attrition cases).
-
-2. 
 
 
 ### Data Sources
