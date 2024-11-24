@@ -12,12 +12,23 @@
 
   
 ### Project Title
+Analysis on Attrition 0f HR Data in a Company.
 
 ### Project Overview
 
+This project generates the insight of total attrition, the percentage rateof attrition, the department with the highest attriton, and the current number of empoyees in the company.
+
 ### Objectives
 
+This data analysis project objectives are;
+
+  * to identify the sum attrition,
+  * to exmaine the attrition rate with thier departments,
+  * to identify the current empoyees in the company.
+
 ### Data Sources
+
+The primary source of this data is from our class tutor in data analysis which was shared.
 
 ### Tools Used
 
@@ -28,7 +39,8 @@
 ### Data Visualization 
 
 
-![HR9](https://github.com/user-attachments/assets/b6668d7c-191e-4846-ba56-57fffb91d31f
+
+![HR9](https://github.com/user-attachments/assets/80a4d915-f5eb-4105-a631-39bb25d6141e)
 
 
 ![HR5](https://github.com/user-attachments/assets/9d669018-3523-4ae2-9e9c-6029f57f1ee5)
